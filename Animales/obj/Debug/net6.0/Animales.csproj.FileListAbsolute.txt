@@ -1,0 +1,15 @@
+C:\L2\c-sharp\Animales\bin\Debug\net6.0\Animales.exe
+C:\L2\c-sharp\Animales\bin\Debug\net6.0\Animales.deps.json
+C:\L2\c-sharp\Animales\bin\Debug\net6.0\Animales.runtimeconfig.json
+C:\L2\c-sharp\Animales\bin\Debug\net6.0\Animales.dll
+C:\L2\c-sharp\Animales\bin\Debug\net6.0\Animales.pdb
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.dll
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\refint\Animales.dll
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.pdb
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache
+C:\L2\c-sharp\Animales\obj\Debug\net6.0\ref\Animales.dll

@@ -1,0 +1,5 @@
+C:\L2\c-sharp\Animales\obj\Debug\net5.0\Animales.csproj.AssemblyReference.cache
+C:\L2\c-sharp\Animales\obj\Debug\net5.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\L2\c-sharp\Animales\obj\Debug\net5.0\Animales.AssemblyInfoInputs.cache
+C:\L2\c-sharp\Animales\obj\Debug\net5.0\Animales.AssemblyInfo.cs
+C:\L2\c-sharp\Animales\obj\Debug\net5.0\Animales.csproj.CoreCompileInputs.cache
